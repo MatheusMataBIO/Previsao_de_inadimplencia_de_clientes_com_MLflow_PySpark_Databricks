@@ -10,7 +10,9 @@ Trata-se de uma abordagem prática de um problema de classificação binária, u
 
 ### 📁 Estrutura do Projeto
 
-**Script PySpark 1.ipynb:** Notebook principal contendo todo o pipeline de machine learning.
+**default os credit card clients**: Dataset utilizado no projeto
+
+**Script PySpark 1 (2).ipynb:** Notebook principal contendo todo o pipeline de machine learning.
 
 **README.md:** Arquivo explicativo com orientações sobre o projeto.
 
@@ -80,7 +82,7 @@ MLflow já instalado e funcional no Databricks
 
 **▶️ Passos**
 
-Importe o notebook Script PySpark 1.ipynb para o Databricks.
+Importe o notebook Script PySpark 1 (2).ipynb para o Databricks.
 
 Execute célula por célula.
 
