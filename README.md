@@ -1,5 +1,9 @@
 # Previsão de Inadimplência de clients
 
+### 📌 Autor
+
+**Matheus Mata**
+
 ### Objetivo 
 
 Este projeto tem como objetivo prever a inadimplência de clientes no mês seguinte utilizando algoritmos de machine learning implementados com PySpark e MLflow no ambiente Databricks.
@@ -115,4 +119,10 @@ Carregar o modelo com mlflow.spark.load_model()
 Realizar previsões com novos dados no mesmo formato vetorizado
 
 Avaliar ou versionar o modelo via MLflow UI
+
+### Tecnologias Utilizadas
+
+PySpark
+Databricks
+MLflow
 
